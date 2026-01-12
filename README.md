@@ -101,4 +101,4 @@ Without fixing the first 2 years, you’re just watching 90% of your customers w
 ## Technical Details
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL, DBeaver
-- **Visualization:** ChatGPT, Python
+- **Visualization:** Python
